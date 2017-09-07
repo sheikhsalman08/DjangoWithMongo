@@ -1,3 +1,8 @@
-Django==1.8.7
+Django== 1.8.7
+mongoadmin==0.2
+mongodbforms==0.3
+mongoengine==0.13.0 
 pymongo==2.8.1
-mongoengine== 0.13.0
+pytz==2014.10
+six==1.10.0 
+
